@@ -1,3 +1,4 @@
+
 #Demo
 
 Some description!
@@ -7,3 +8,6 @@ Some description!
 
 WAtchtutorialon Youtube!
 
+### Local development
+
+1. open index.html in your browser
